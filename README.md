@@ -1,5 +1,5 @@
 ## Eaeeee!! Sou o Gabriel Squissato
-- 👨‍💻 Atualente estou trabalhando com C# - Blazor
+- 👨‍💻 Atualmente estou trabalhando com C# - Blazor
 
  <div>
   <a href="https://github.com/BiieLNTC">
